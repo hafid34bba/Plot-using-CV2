@@ -4,6 +4,8 @@
 https://youtu.be/embed/JicbOCbpkOc
 
 
-just to extend @GabLeRoux's answer:
-
-[<img src="https://img.youtube.com/vi/JicbOCbpkOc/maxresdefault.jpg" width="50%">](https://youtu.be/JicbOCbpkOc)
+<video width="320" height="240" controls>
+  <source src="video.mp4" type="video/mp4">
+  
+Your browser does not support the video tag.
+</video>
