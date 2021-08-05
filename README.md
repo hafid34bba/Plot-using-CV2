@@ -1,4 +1,4 @@
 
 # Plot_square.py
 
-https://youtu.be/JicbOCbpkOc
+https://youtu.be/embed/JicbOCbpkOc
