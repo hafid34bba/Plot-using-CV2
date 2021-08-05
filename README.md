@@ -1,4 +1,4 @@
 
 # Plot_square.py
 
-![caption](video.mp4)
+![](video.mp4)
